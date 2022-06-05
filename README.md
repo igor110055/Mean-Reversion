@@ -1,2 +1,2 @@
 # Mean Reversion-
-## This is a repository for create and test quantitative Mean Reversion trading strategies ##
+## This is a repository to create and test quantitative Mean Reversion trading strategies ##
